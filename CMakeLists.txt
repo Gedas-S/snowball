@@ -139,7 +139,7 @@ SET(LIBSTEM_ALGORITHMS danish dutch english finnish french german hungarian
 	russian spanish swedish turkish)
 SET(KOI8_ALGORITHMS russian)
 SET(ISO_8859_1_ALGORITHMS danish dutch english finnish french german italian
-			lithuanian norwegian porter portuguese spanish swedish)
+			norwegian porter portuguese spanish swedish)
 SET(ISO_8859_2_ALGORITHMS hungarian romanian)
 SET(OTHER_ALGORITHMS german2 kraaij_pohlmann lovins)
 SET(ALL_ALGORITHMS ${LIBSTEM_ALGORITHMS} ${OTHER_ALGORITHMS})
