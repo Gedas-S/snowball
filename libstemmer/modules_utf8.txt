@@ -16,6 +16,7 @@ french          UTF_8                   french,fr,fre,fra
 german          UTF_8                   german,de,ger,deu
 hungarian       UTF_8                   hungarian,hu,hun
 italian         UTF_8                   italian,it,ita
+lithuanian      UTF_8                   lithuanian,lt,lit
 norwegian       UTF_8                   norwegian,no,nor
 portuguese      UTF_8                   portuguese,pt,por
 romanian        UTF_8                   romanian,ro,rum,ron

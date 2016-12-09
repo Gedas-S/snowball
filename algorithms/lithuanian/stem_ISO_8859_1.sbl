@@ -159,13 +159,12 @@ backwardmode(
       // 'it{e.}s' konfliktas su priesaga ir dgs. vardininko galūne -ait-ės pvz. žydaitės
 
       // o asmenuotė
-      'ome' 'omės'                // mokome, bijomės
-      'ot' 'ote' 'otės'           // mokot, mokote, bijotės
+      'ome' 'om{e.}s'                // mokome, bijomės
+      'ot' 'ote' 'ot{e.}s'           // mokot, mokote, bijotės
 
       // būtasis laikas
       // o asmenuotė
       '{e.}jo' '{e.}josi'         // tikėjo, tikėjosi
-      'ot{e.}s'                   // tikėjotės
 
       // ė asmenuotė
       'eisi'                      // mokeisi
@@ -177,7 +176,6 @@ backwardmode(
 
       // būtasis dažninis laikas
       'ausi'                      // mokydavausi
-      'om{e.}s'                   // mokydavomės
 
 
       // būsimasis laikas
